@@ -27,4 +27,3 @@ pub fn is_armstrong_number(num: u32) -> bool {
     }
     sum_of_powers == num_as_u64
 }
- 
